@@ -54,7 +54,7 @@
 
 I'm **Asfand Yar** — CTO at [Stonepath Labs](https://asfand-yar.vercel.app/), AI Engineer, and published researcher specializing in **federated learning**, **computer vision**, and **NLP systems** that operate at the edge of what's possible.
 
-My research centers on **Distractor-Aware Memory (DAM)** for visual object tracking — pushing the boundaries of how models perceive, remember, and adapt in dynamic environments.
+My research centers on **Distractor-Aware Memory (DAM)** for visual object tracking  pushing the boundaries of how models perceive, remember, and adapt in dynamic environments.
 
 What drives my engineering philosophy:
 - **Privacy-first ML** — federated systems where data never leaves its source
@@ -193,7 +193,7 @@ experience: ~4 years progressive AI/ML
 ### 🔬 &nbsp; DAM — Distractor-Aware Memory for Visual Object Tracking
 **Lead-Author Research | Computer Vision**
 
-A novel tracking architecture that addresses one of the hardest open problems in visual object tracking: distractors — objects that confuse the tracker by appearing semantically similar to the target. DAM introduces a memory-augmented attention mechanism that dynamically encodes and suppresses distractor patterns across frames, maintaining robust target identity even in high-clutter environments.
+A novel tracking architecture that addresses one of the hardest open problems in visual object tracking: distractors  objects that confuse the tracker by appearing semantically similar to the target. DAM introduces a memory-augmented attention mechanism that dynamically encodes and suppresses distractor patterns across frames, maintaining robust target identity even in high-clutter environments.
 
 **Research Impact** → Demonstrates measurable improvement in precision and success rate over baseline trackers on benchmark datasets. Advances state-of-the-art in memory-driven tracking architectures.
 
@@ -219,7 +219,7 @@ A novel tracking architecture that addresses one of the hardest open problems in
 ### 🔐 &nbsp; Federated ML Infrastructure
 **Privacy-Preserving Distributed Learning Systems**
 
-A federated learning framework enabling collaborative model training across distributed nodes without centralizing raw data. Implements differential privacy guarantees, secure aggregation, and adaptive client selection strategies — making privacy-preserving ML practical for healthcare, finance, and edge deployments.
+A federated learning framework enabling collaborative model training across distributed nodes without centralizing raw data. Implements differential privacy guarantees, secure aggregation, and adaptive client selection strategies  making privacy-preserving ML practical for healthcare, finance, and edge deployments.
 
 **Real-world Impact** → Enables organizations to train on sensitive data across institutions without ever sharing it. Compliance-ready from architecture, not as an afterthought.
 
@@ -245,7 +245,7 @@ A federated learning framework enabling collaborative model training across dist
 ### 🎯 &nbsp; Real-Time CV Pipeline with YOLO + SAM 2
 **Production Computer Vision at Scale**
 
-An end-to-end computer vision pipeline combining YOLO-based detection with SAM 2 segmentation for real-time, high-accuracy object understanding. Optimized for deployment on edge devices and cloud inference endpoints — handles detection, segmentation, and tracking in a unified architecture.
+An end-to-end computer vision pipeline combining YOLO-based detection with SAM 2 segmentation for real-time, high-accuracy object understanding. Optimized for deployment on edge devices and cloud inference endpoints  handles detection, segmentation, and tracking in a unified architecture.
 
 **Real-world Impact** → Deployed for industrial inspection and smart surveillance use cases, achieving real-time throughput with sub-30ms inference latency.
 
@@ -271,7 +271,7 @@ An end-to-end computer vision pipeline combining YOLO-based detection with SAM 2
 ### 🧬 &nbsp; GAN-Powered Synthetic Data Engine
 **Generative AI for Data Augmentation**
 
-A production-grade GAN pipeline for generating high-fidelity synthetic training data — addressing class imbalance, privacy constraints, and data scarcity in medical imaging and CV benchmarks. Features progressive training, FID-based quality control, and seamless integration into existing ML workflows.
+A production-grade GAN pipeline for generating high-fidelity synthetic training data  addressing class imbalance, privacy constraints, and data scarcity in medical imaging and CV benchmarks. Features progressive training, FID-based quality control, and seamless integration into existing ML workflows.
 
 **Real-world Impact** → Reduces dataset collection costs by generating statistically valid synthetic samples that improve downstream model performance.
 
@@ -333,7 +333,7 @@ A production-grade GAN pipeline for generating high-fidelity synthetic training 
 
 ### &nbsp; Stonepath Labs &nbsp; `Enterprise AI · Privacy-First Architecture`
 
-Stonepath Labs is where research discipline meets production engineering. As CTO, I lead the technical vision for building intelligent systems that organizations can actually trust — architected for reliability, compliance, and scale from day one.
+Stonepath Labs is where research discipline meets production engineering. As CTO, I lead the technical vision for building intelligent systems that organizations can actually trust  architected for reliability, compliance, and scale from day one.
 
 > *"AI that respects boundaries. Systems that earn trust."*
 
