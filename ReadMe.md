@@ -48,11 +48,11 @@
 <tr>
 <td width="58%" valign="top">
 
-> **I don't just engineer AI — I architect the future of how machines learn together.**
+> **I don't just engineer AI  I architect the future of how machines learn together.**
 >
 > *Privacy-preserving. Distributed. Real-world.*
 
-I'm **Asfand Yar** — CTO at [Stonepath Labs](https://asfand-yar.vercel.app/), AI Engineer, and published researcher specializing in **federated learning**, **computer vision**, and **NLP systems** that operate at the edge of what's possible.
+I'm **Asfand Yar**  CTO at [Stonepath Labs](https://asfand-yar.vercel.app/), AI Engineer, and published researcher specializing in **federated learning**, **computer vision**, and **NLP systems** that operate at the edge of what's possible.
 
 My research centers on **Distractor-Aware Memory (DAM)** for visual object tracking  pushing the boundaries of how models perceive, remember, and adapt in dynamic environments.
 
