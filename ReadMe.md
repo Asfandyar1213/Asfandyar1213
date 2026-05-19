@@ -54,7 +54,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Asfandyar1213&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef&include_all_commits=true&count_private=true" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Asfandyar1213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef&include_all_commits=true&count_private=true&rank_icon=github" />
 
 ```yaml
 👤  Name     : Asfand Yar
@@ -71,7 +71,7 @@
 
 🧠  Core     :
       ➤ Privacy-Preserving / Federated ML
-      ➤ Computer Vision  YOLO · SAM 2
+      ➤ Computer Vision — YOLO · SAM 2
       ➤ NLP & Transformer Architectures
       ➤ GAN-based Generative Systems
 
@@ -149,7 +149,7 @@
 <br/>
 
 <details open>
-<summary><b>🧬 DAM  Distractor-Aware Memory for Visual Object Tracking &nbsp;|&nbsp; Lead Author Research</b></summary>
+<summary><b>🧬 DAM — Distractor-Aware Memory for Visual Object Tracking &nbsp;|&nbsp; Lead Author Research</b></summary>
 <br/>
 
 > One of the hardest open problems in visual tracking: objects that look like the target but aren't. DAM solves this.
@@ -208,7 +208,7 @@ End-to-end detection + segmentation pipeline optimized for edge and cloud infere
 <summary><b>🧬 GAN-Powered Synthetic Data Engine &nbsp;|&nbsp; Generative AI for Data Augmentation</b></summary>
 <br/>
 
-Production-grade GAN pipeline for high-fidelity synthetic training data generation  tackling class imbalance, privacy constraints, and data scarcity in medical imaging and CV benchmarks with FID-based quality control.
+Production-grade GAN pipeline for high-fidelity synthetic training data generation — tackling class imbalance, privacy constraints, and data scarcity in medical imaging and CV benchmarks with FID-based quality control.
 
 ![GANs](https://img.shields.io/badge/GANs-6C3483?style=flat-square&logo=nvidia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -227,9 +227,9 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asfandyar1213&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asfandyar1213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef&include_all_commits=true&count_private=true&rank_icon=github"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfandyar1213&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfandyar1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=8"/>
 
 </div>
 
@@ -237,7 +237,7 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Asfandyar1213&theme=highcontrast&hide_border=true&background=0d1117&ring=00b4d8&fire=90e0ef&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=caf0f8&stroke=00b4d8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Asfandyar1213&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00b4d8&fire=90e0ef&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=caf0f8)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -245,7 +245,7 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 <div align="center">
 
-[![Asfand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asfandyar1213&bg_color=0d1117&color=00b4d8&line=90e0ef&point=caf0f8&area=true&area_color=023e8a&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Asfand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asfandyar1213&bg_color=0d1117&color=00b4d8&line=90e0ef&point=ffffff&area=true&area_color=023e8a&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -280,7 +280,7 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 > *"We don't bolt AI onto your business. We architect it from the foundation."*
 
-As **CTO**, I lead end-to-end technical strategy  from research prototypes to deployed enterprise systems. Stonepath Labs specializes in **AI that operates where data is most sensitive**  healthcare, legal, finance  built privacy-first, not as an afterthought.
+As **CTO**, I lead end-to-end technical strategy — from research prototypes to deployed enterprise systems. Stonepath Labs specializes in **AI that operates where data is most sensitive** — healthcare, legal, finance — built privacy-first, not as an afterthought.
 
 | Domain | What We Build |
 |---|---|
@@ -331,7 +331,7 @@ As **CTO**, I lead end-to-end technical strategy  from research prototypes to de
 
 <br/>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=Asfandyar1213&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Asfandyar1213&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)
 
 </div>
 
