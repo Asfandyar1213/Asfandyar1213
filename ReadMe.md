@@ -54,7 +54,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Asfandyar1213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef&include_all_commits=true&count_private=true&rank_icon=github" />
+<img align="right" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asfandyar1213&theme=tokyonight" />
 
 ```yaml
 👤  Name     : Asfand Yar
@@ -227,9 +227,9 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asfandyar1213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asfandyar1213&theme=tokyonight"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfandyar1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=8"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asfandyar1213&theme=tokyonight"/>
 
 </div>
 
