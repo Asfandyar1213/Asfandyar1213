@@ -149,12 +149,12 @@
 <br/>
 
 <details open>
-<summary><b>🧬 DAM — Distractor-Aware Memory for Visual Object Tracking &nbsp;|&nbsp; Lead Author Research</b></summary>
+<summary><b>🧬 DAM  Distractor-Aware Memory for Visual Object Tracking &nbsp;|&nbsp; Lead Author Research</b></summary>
 <br/>
 
 > One of the hardest open problems in visual tracking: objects that look like the target but aren't. DAM solves this.
 
-A novel tracking architecture introducing **memory-augmented attention** that dynamically encodes and suppresses distractor patterns across frames — maintaining robust target identity in high-clutter, real-world environments where conventional trackers fail.
+A novel tracking architecture introducing **memory-augmented attention** that dynamically encodes and suppresses distractor patterns across frames,  maintaining robust target identity in high-clutter, real-world environments where conventional trackers fail.
 
 **Technical Highlights:**
 - Memory module that retains long-term target appearance while selectively forgetting distractors
@@ -280,11 +280,11 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 > *"We don't bolt AI onto your business. We architect it from the foundation."*
 
-As **CTO**, I lead end-to-end technical strategy — from research prototypes to deployed enterprise systems. Stonepath Labs specializes in **AI that operates where data is most sensitive** — healthcare, legal, finance — built privacy-first, not as an afterthought.
+As **CTO**, I lead end-to-end technical strategy  from research prototypes to deployed enterprise systems. Stonepath Labs specializes in **AI that operates where data is most sensitive**  healthcare, legal, finance — built privacy-first, not as an afterthought.
 
 | Domain | What We Build |
 |---|---|
-| 🔐 **Privacy-Preserving ML** | Federated systems — data never leaves its source |
+| 🔐 **Privacy-Preserving ML** | Federated systems  data never leaves its source |
 | 👁️ **Computer Vision** | Real-time detection, tracking & segmentation pipelines |
 | 🧠 **LLM & RAG Systems** | Domain-tuned knowledge systems on your data |
 | 📄 **Document Intelligence** | NLP extraction from clinical, legal & financial docs |
