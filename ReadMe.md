@@ -7,7 +7,7 @@
 <!-- ANIMATED TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=🧠+Federated+Learning+%7C+Computer+Vision+%7C+NLP;🔬+Lead+Researcher+%7C+DAM+Visual+Object+Tracking;🚀+CTO+%40+Stonepath+Labs+%7C+Pakistan+🇵🇰;⚡+Building+AI+Systems+That+Think+%2C+Not+Just+Predict)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=🧠+Federated+Learning+%7C+Computer+Vision+%7C+NLP;🔬+Lead+Researcher+%7C+DAM+Visual+Object+Tracking;🚀+CTO+%40+Stonepath+Labs+%7C+Pakistan+🇵🇰;⚡+Building+AI+Systems+That+Think+%2C+Not+Just+Predict)](https://git.io/typing-svg)
 
 </div>
 
@@ -257,7 +257,7 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Asfandyar1213&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Asfandyar1213&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
