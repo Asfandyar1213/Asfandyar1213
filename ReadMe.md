@@ -253,11 +253,13 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Asfandyar1213&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asfandyar1213&theme=tokyonight&utcOffset=5"/>
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asfandyar1213&theme=tokyonight"/>
 
 </div>
 
