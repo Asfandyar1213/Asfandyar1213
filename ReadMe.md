@@ -270,6 +270,14 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 ## 🏰 Throne — Co-Founder
 
 <div align="center">
+<a href="https://usethrone.dev">
+  <img src="https://usethrone.dev/assets/og-image.png" alt="Throne: paste an MCP server, get the verdict" width="760"/>
+</a>
+</div>
+
+<br/>
+
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
