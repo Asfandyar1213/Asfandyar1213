@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1f2d,60:00b4d8,100:90e0ef&height=280&section=header&text=Asfand%20Yar&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=CTO%20%40%20Stonepath%20Labs%20%7C%20AI%20Engineer%20%7C%20Researcher&descSize=18&descColor=90e0ef&descAlignY=65&animation=twinkling&stroke=00b4d8&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1f2d,60:00b4d8,100:90e0ef&height=280&section=header&text=Asfand%20Yar&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=Co-Founder%20%40%20Throne%20%7C%20AI%20Engineer%20%7C%20Researcher&descSize=18&descColor=90e0ef&descAlignY=65&animation=twinkling&stroke=00b4d8&strokeWidth=2" width="100%"/>
 
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=🧠+Federated+Learning+%7C+Computer+Vision+%7C+NLP;🔬+Lead+Researcher+%7C+DAM+Visual+Object+Tracking;🚀+CTO+%40+Stonepath+Labs+%7C+Pakistan+🇵🇰;⚡+Building+AI+Systems+That+Think+%2C+Not+Just+Predict)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=🧠+Federated+Learning+%7C+Computer+Vision+%7C+NLP;🔬+Lead+Researcher+%7C+DAM+Visual+Object+Tracking;🚀+Co-Founder+%40+Throne+%7C+Pakistan+🇵🇰;⚡+Building+AI+Systems+That+Think+%2C+Not+Just+Predict)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ![Status](https://img.shields.io/badge/⚡_Status-Open%20to%20Collaboration-00b4d8?style=flat-square&labelColor=0d1f2d)
 &nbsp;
-![Role](https://img.shields.io/badge/🏛_Role-CTO%20%40%20Stonepath%20Labs-90e0ef?style=flat-square&labelColor=0d1f2d)
+![Role](https://img.shields.io/badge/🏰_Role-Co--Founder%20%40%20Throne-90e0ef?style=flat-square&labelColor=0d1f2d)
 &nbsp;
 ![Experience](https://img.shields.io/badge/🧪_Experience-4+%20Years%20AI%2FML-caf0f8?style=flat-square&labelColor=0d1f2d)
 &nbsp;
@@ -58,7 +58,7 @@
 
 ```yaml
 👤  Name     : Asfand Yar
-🏛  Title    : CTO @ Stonepath Labs
+🏰  Title    : Co-Founder @ Throne
 🎓  Degree   : BS Artificial Intelligence
                PAF-IAST (Kamra)
 📍  Location : Rawalpindi, Pakistan 🇵🇰
@@ -267,38 +267,36 @@ Production-grade GAN pipeline for high-fidelity synthetic training data generati
 
 ---
 
-## 🏛 Stonepath Labs — Chief Technology Officer
+## 🏰 Throne — Co-Founder
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           STONEPATH LABS  ·  Enterprise AI & Automation          ║
-║                  Privacy-First · Research-Grade                  ║
+║              THRONE  ·  The Release Gate for MCP Servers         ║
+║                  Evidence-Backed · Execution-Verified            ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-> *"We don't bolt AI onto your business. We architect it from the foundation."*
+> *"Every MCP directory today lists self-reported entries. Nobody runs the servers. Throne does."*
 
-As **CTO**, I lead end-to-end technical strategy  from research prototypes to deployed enterprise systems. Stonepath Labs specializes in **AI that operates where data is most sensitive**  healthcare, legal, finance — built privacy-first, not as an afterthought.
+As **Co-Founder**, I'm building [**Throne**](https://usethrone.dev) — the first MCP registry where every verdict is backed by a real execution. Throne runs each server in a disposable microVM, tests it against real client behaviour (Claude Code and Cursor), scans the source for security issues, and publishes the evidence.
 
-| Domain | What We Build |
+| What We Ship | Description |
 |---|---|
-| 🔐 **Privacy-Preserving ML** | Federated systems  data never leaves its source |
-| 👁️ **Computer Vision** | Real-time detection, tracking & segmentation pipelines |
-| 🧠 **LLM & RAG Systems** | Domain-tuned knowledge systems on your data |
-| 📄 **Document Intelligence** | NLP extraction from clinical, legal & financial docs |
-| ⚙️ **MLOps Architecture** | Training → versioning → monitoring → deployment |
-| 🤖 **AI Workflow Automation** | Replace manual processes with intelligent pipelines |
+| 🏰 **[usethrone.dev](https://usethrone.dev)** | The MCP registry of record — every server gets a public evidence page with its verdict, full protocol run & security review |
+| ⚙️ **[throne-ci](https://github.com/usethrone/throne-ci)** | GitHub Action that runs the full scan on every PR and blocks merges that break real clients |
+| 🛡️ **Dual Verdicts** | Client compatibility + static security review — never mixed into one number |
+| 🔥 **Isolated Execution** | One disposable Firecracker microVM per scan, destroyed after — nothing outlives a run |
 
-**Who we serve:** Healthcare · Legal · Finance · Enterprises with sensitive data · Research institutions
+**Stack:** Python · FastAPI · Firecracker microVMs · Fly Machines · Postgres
 
-[![Stonepath](https://img.shields.io/badge/Stage-Active-22c55e?style=flat-square&labelColor=0d1f2d)]()
-[![Specialty](https://img.shields.io/badge/Specialty-Privacy%20First%20AI-00b4d8?style=flat-square&labelColor=0d1f2d)]()
+[![Throne](https://img.shields.io/badge/Stage-Active-22c55e?style=flat-square&labelColor=0d1f2d)]()
+[![Specialty](https://img.shields.io/badge/Specialty-MCP%20Security%20%26%20Verification-00b4d8?style=flat-square&labelColor=0d1f2d)]()
 [![HQ](https://img.shields.io/badge/HQ-Pakistan%20🇵🇰-90e0ef?style=flat-square&labelColor=0d1f2d)]()
-[![Contact](https://img.shields.io/badge/CTO%20Contact-asfandyar5133%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1f2d)](mailto:asfandyar5133@gmail.com)
+[![Contact](https://img.shields.io/badge/Co--Founder%20Contact-asfandyar5133%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1f2d)](mailto:asfandyar5133@gmail.com)
 
 <br/>
 
@@ -350,4 +348,4 @@ As **CTO**, I lead end-to-end technical strategy  from research prototypes to de
 </div>
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,50:00b4d8,100:0d1f2d&height=140&section=footer&text=Asfand%20Yar%20%C2%B7%20CTO%20%40%20Stonepath%20Labs&fontSize=18&fontColor=ffffff&fontAlignY=65&desc=Research%20·%20Systems%20·%20Production%20·%20Pakistan%20🇵🇰&descSize=13&descColor=caf0f8&descAlignY=82" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,50:00b4d8,100:0d1f2d&height=140&section=footer&text=Asfand%20Yar%20%C2%B7%20Co-Founder%20%40%20Throne&fontSize=18&fontColor=ffffff&fontAlignY=65&desc=Research%20·%20Systems%20·%20Production%20·%20Pakistan%20🇵🇰&descSize=13&descColor=caf0f8&descAlignY=82" width="100%"/>
